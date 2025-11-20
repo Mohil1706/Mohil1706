@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohil1706
+- 👋 Hi, I’m @Mohil
 - 👀 I’m interested to become Frontend Dev
 - 🌱 I’m currently learning HTML CSS  BOOTSTRAP & JS TypeScript & React
 - 💞️ I’m looking to collaborate to open sources
